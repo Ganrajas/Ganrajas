@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Customer Relationship Management](https://github.com/Ganrajas/Aristan018-.git)
 
-- 🌱 I’m currently learning **React ,**
+- 🌱 I’m currently learning **MERN ,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ganrajas](https://github.com/Ganrajas)
 
